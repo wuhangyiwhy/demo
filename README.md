@@ -10,7 +10,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 ==Syntax highlighted code block 我高亮了==
 ```
-print('hello word')
+print('傻逼')
 ```
 
 # Header 1
