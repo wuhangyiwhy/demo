@@ -1,15 +1,17 @@
-## Welcome to GitHub Pages
+# Welcome to GitHub Pages（Markdown语法练习）
 
-You can use the [editor on GitHub](https://github.com/xiayanqi520221/demo/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+## 我是二级标题
+***我被加粗和倾斜了***
 ```markdown
-Syntax highlighted code block
+==Syntax highlighted code block 我高亮了==
+```python
+print('我是你爸爸')
+```
 
 # Header 1
 ## Header 2
