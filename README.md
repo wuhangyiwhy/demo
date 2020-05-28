@@ -9,8 +9,8 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ***我被加粗和倾斜了***
 ```markdown
 ==Syntax highlighted code block 我高亮了==
-```python
-print('我是你爸爸')
+```
+print('hello word')
 ```
 
 # Header 1
